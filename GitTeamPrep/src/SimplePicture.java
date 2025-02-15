@@ -3,6 +3,7 @@ import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
 //Group 2
+//Nice work!
 
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
