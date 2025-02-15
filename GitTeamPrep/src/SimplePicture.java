@@ -2,6 +2,8 @@ import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
 
+//Group 2
+
 public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	public static final FILE_NAME = "robot.png"; 
@@ -16,7 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
 	}
-	
+
 	public static void main(String[] args) {
 		new SimplePicture().start();
 	}
